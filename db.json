@@ -1,16 +1,44 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "NarutoLuffy",
+      "age": "23",
+      "place": "India",
+      "batch_name": "WEB-15",
+      "profession": "Student",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "Ichigo Bleach",
+      "age": "25",
+      "place": "Japan",
+      "batch_name": "WEB-13",
+      "profession": "FSD",
+      "id": 2
+    },
+    {
+      "name": "Hatim Tai",
+      "age": "34",
+      "place": "Star Plus",
+      "batch_name": "WEB-13",
+      "profession": "Backend",
+      "id": 3
+    },
+    {
+      "name": "Sinchan",
+      "age": "10",
+      "place": "Hungama",
+      "batch_name": "WEB-14",
+      "profession": "Student",
+      "id": 4
+    },
+    {
+      "name": "Ashoka Samrat",
+      "age": "25",
+      "place": "Magadh",
+      "batch_name": "WEB-13",
+      "profession": "FSD",
+      "id": 5
     }
   ]
 }
